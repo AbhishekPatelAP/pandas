@@ -102,10 +102,10 @@ Planned improvements:
 
 This repository demonstrates:
 
-✔ Understanding of Pandas fundamentals
-✔ Ability to manipulate structured data
-✔ Knowledge of joins and aggregations
-✔ Comfort with real analytical workflows
+* Understanding of Pandas fundamentals
+* Ability to manipulate structured data
+* Knowledge of joins and aggregations
+* Comfort with real analytical workflows
 
 ---
 
