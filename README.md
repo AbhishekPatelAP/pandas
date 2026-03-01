@@ -1,4 +1,4 @@
-# 📊 Pandas Practice Repository
+# 📊 Pandas – Practical Foundations for Data Analysis
 
 This repository contains my structured practice and hands-on learning of **Pandas**, a powerful Python library used for data manipulation and analysis.
 
